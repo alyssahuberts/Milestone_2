@@ -1,0 +1,20 @@
+---
+title: "Milestone_2"
+author: "Fatma Al-Alawi"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r include=FALSE}
+library(tidyverse)
+```
+
+**[Perspective on Historical and Future Consequences of Climate Change](https://isheka-agarwal.shinyapps.io/final_project/)**
+I thought this is an interesting concept for a project. The images are well done. I’m not sure if these were developed individually and manually or through programming; if it’s the latter, I think it would’ve been more visually/experientially interesting to offer it as an interactive scale that may be adjusted or moved, to gradually show the change. I’m not sure what the plot “How population affects climate change beliefs” means; an accompanying explanation would be useful. 
+
+
+**[Cambridge: Buildings & Energy](https://mhanifw.shinyapps.io/cambridge-energy-use/)**
+This project is amazing! The interactive interface, and the way it builds up from basic information to correlations between energy use and building age. I think better visuals (aesthetics) would have been nice for that plot; and an option of changing the units would also make it better. The mapped “electricity usage for each parcel index in Cambridge” could be improved: it is not clear what units are used on the scale; additionally, a more diversely colored scale would be more useful in discerning the differences. I also appreciate how there are sub-tabs within every tab, which break up the data into energy, water, and greenhouse gas emissions. The source for the data is not up, though!
+
+
+
